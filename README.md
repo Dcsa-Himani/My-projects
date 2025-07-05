@@ -17,5 +17,5 @@ These projects reflect hands-on experience in software development and problem-s
 
 ## 📜 License
 
-© 2024 Himani Sharma. All rights reserved.  
+© 2025 Himani Sharma. All rights reserved.  
 This project is provided for viewing purposes only. No permission is granted to copy, modify, distribute, or use this code in any form without explicit written consent from the owner.
