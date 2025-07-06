@@ -51,7 +51,7 @@ SELECT * FROM Bus
 WHERE capacity = (SELECT MAX(capacity) FROM Bus);
 
 ----
-### NOTE : The SQL queries along with output are given in the pdf.
+### `NOTE : The SQL queries along with output are given in the pdf.`
 -----
 ## 📜 License
 © 2025 Himani Sharma. All rights reserved.
