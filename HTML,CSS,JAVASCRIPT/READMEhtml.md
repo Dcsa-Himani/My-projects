@@ -21,7 +21,7 @@ This project showcases a collection of static and dynamic web pages designed usi
 - Form validations with DOM manipultion
 
   ----
-  ### `NOTE : The code and outputs of all the webpages are combined in the pdf file named HTML Project.pdf`
+  ### `NOTE : The code and outputs of all the webpages are given in the pdf file named HTML Project.pdf`
   
   ----
 
