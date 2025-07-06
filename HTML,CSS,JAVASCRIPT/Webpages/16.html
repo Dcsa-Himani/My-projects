@@ -1,0 +1,53 @@
+<html>
+<head>
+    <title>Form</title>
+</head>
+<body background="p.jpg">
+    <img src="india.jpg" hspace="25%">
+    <hr width="70%" color="#4b38e1">
+    <font face="sans-serif" size="4"><h2><u>Create a New Account </u>:-</h2></font>
+    <font face="monotype corsiva" size="5">
+    <form  method="post" action="indiagov.asp">
+    <fieldset>
+       <legend><font face="arial" size="4" color="#4b38e1">Account Information</legend></font>
+          <b>Create Username : <input type="text" name="username" size="30%" maxlength="20"                   value="Create Username"><br>
+          Create Password : <input type="password" name="password" size="30%" maxlength="20"                 value="Password"></b><br>
+          <small><i><kbd>*Password should not be more than 20 characters                                 long.</kbd></i></small>
+    </fieldset><br>
+    <fieldset>
+       <legend><font face="arial" size="4" color="#4b38e1">Personal                 Information</legend></font>
+        <b>Name : <input type="text" name="name" size="30%" maxlength="20"                                             value="Enter Name">
+             &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Date of Birth :  <input type="text" name="dob" size="30%" value="Enter D.O.B in dd/mm/yy  form"><br><br>
+        Gender:</b> <br><font face="serif" size="4"><input type="radio" name="sex"                                value="m">Male
+                 <input type="radio" name="sex" value="f">Female
+                 <input type="radio" name="sex" value="o">Other</font>
+        <b>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;                
+ Phone No. : <input type="text" name="phone" size="30%" maxlength="20" value="Enter Phone no."><br><br>
+         Address :<br> <textarea rows="4" cols="48%" name="address">Enter Address</textarea>
+Email Id : <input type="text" name="phone" size="30%" maxlength="20"                                     value="Enter Email Id"><br>
+     </fieldset><br>  
+     <fieldset>
+       <legend><font face="arial" size="4" color="#4b38e1">Educational                                           Information</legend></font>
+        <b>Qualification : <select name="qualification">
+                <option value="1">10th
+                <option value="2">12th
+                <option value="2" selected>Graduate
+                <option value="2">Post Graduate
+                </select><br><br>
+         Additional Skills(if any) :<br><font face="sans-serif" size="4"></b>
+         <input type="checkbox" name="checkbox" value="v1">Knowledge of coding                                       languages(like C,C++,etc.)<br>
+         <input type="checkbox" name="checkbox" value="v2">Good Typing Speed<br>
+         <input type="checkbox" name="checkbox" value="v3">Knowledge of foreign                                     languages<br></font>
+          <small><i><kbd>(*Select all that apply.)</kbd></i></small>
+    </fieldset><br>
+    <fieldset>
+        <b>Upload Photo : <input type="file" name="photo"><br>
+        Upload Signature : <input type="file" name="sign"></b></font>
+    </fieldset><br> 
+    <p align="center"><input type="submit" value="Submit">
+    &nbsp; &nbsp;<input type="reset" value="Clear"></p>
+    <input type="image" src="home.jpg" width="18%" hspace="41%">
+    <font face="arial" size="2"><b>[A program by Himani Sharma]</b></font>
+</body>
+</html>
+
