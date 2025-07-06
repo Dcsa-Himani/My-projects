@@ -11,13 +11,16 @@ This is a command-line application developed in C++ to simulate essential bankin
 ✅ Transaction logging for record-keeping
 
 
-## 🚀 How It Works
+## 🚀 How Application Works
 
 - The application runs in the terminal or command prompt.
 - First a PIN is to be entered to login.(The Hardcoded PIN is **123456**).  
 - Users can create new accounts or log in with an account number and PIN.
 - After login, bank users can perform transactions like creation or modification of accounts, deposits, withdrawals, and fund transfers.  
 - Account information and transaction history are stored in files for persistence.
+----
+### NOTE : The code and all the screenshots of working of the application are present in the pdf named BankMgmt_Report.pdf
+-----
 
 ## 📜 License
 
