@@ -19,7 +19,7 @@ This is a command-line application developed in C++ to simulate essential bankin
 - After login, bank users can perform transactions like creation or modification of accounts, deposits, withdrawals, and fund transfers.  
 - Account information and transaction history are stored in files for persistence.
 ----
-### NOTE : The code and all the screenshots of working of the application are present in the pdf named BankMgmt_Report.pdf
+### `NOTE : The code and all the screenshots of working of the application are present in the pdf named BankMgmt_Report.pdf`
 -----
 
 ## 📜 License
